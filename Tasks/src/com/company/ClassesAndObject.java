@@ -6,7 +6,7 @@ public class ClassesAndObject {
     public static void main(String[] args) {
         Person person1=new Person();
         person1.setName("Александр");
-        person1.setAge(29);
+        person1.setAge(46);
         System.out.println("Выводим значение в main методе:" + person1.getName());
         System.out.println("Выводим значение в main методе:" + person1.getAge());
 
