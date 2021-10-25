@@ -9,8 +9,7 @@ public void eat(){
 }
 
 public void showName(){
-    setName("Maks");
-    System.out.println(getName());
+    System.out.println(name);
 }
 
 }

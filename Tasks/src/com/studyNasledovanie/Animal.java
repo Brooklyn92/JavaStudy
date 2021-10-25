@@ -2,7 +2,7 @@ package com.studyNasledovanie;
 
 public class Animal {
 
-     private String name="Some Animal";
+     String name="Some Animal";
 
     public void eat(){
         System.out.println("Animal am eating");
@@ -12,11 +12,12 @@ public class Animal {
 
     }
 
-    public void setName(String name) {
+    /*public void setName(String name) {
         this.name = name;
     }
 
     public String getName() {
         return name;
     }
+     */
 }
