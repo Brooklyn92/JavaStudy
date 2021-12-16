@@ -1,4 +1,4 @@
-package com.company;
+package com.study_object_how_parameter_method;
 
 public class ObjectHowParametersMethod {
     public static void main(String[] args) {
