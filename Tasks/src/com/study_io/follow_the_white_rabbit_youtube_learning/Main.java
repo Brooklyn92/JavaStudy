@@ -34,7 +34,7 @@ public class Main {
         //FileOutputStream fileOutputStream = null;
         FileWriter fileWriter = null;
         String str = " I love Jinx";
-        File file = new File("F:/22.txt"); // создаёт новый файл на физическом носителе
+        File file = new File("F:/22.txt"); // создаёт новый объект в памяти, содержащий имя файла.
         {
             try {
                 fileWriter = new FileWriter(file, true); // передаём новый созданый нами файл для записи
