@@ -1,4 +1,4 @@
-package com.study_interfeces;
+package com.study_interfeces.exp1;
 
 public class Person implements Info {
     public String name;
