@@ -1,4 +1,4 @@
-package com.study_static;
+package com.study_static.exp1;
 
 public class StudyStatic {
     public static void main(String[] args) {
